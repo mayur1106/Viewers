@@ -4,6 +4,7 @@
   text-decoration-color: none;
   display: flex;
   align-items: center;
+  font-size: 20px !important;
   color: var(--text-primary-color);
 }
 
